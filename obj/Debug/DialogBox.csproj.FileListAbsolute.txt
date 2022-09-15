@@ -1,0 +1,32 @@
+C:\Users\motyr\source\repos\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+C:\Users\motyr\source\repos\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+C:\Users\motyr\source\repos\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.AssemblyReference.cache
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\MainWindow.g.cs
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\App.g.cs
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox_MarkupCompile.cache
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox_MarkupCompile.lref
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\MainWindow.baml
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.g.resources
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.cache
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.CoreCompileInputs.cache
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+C:\Users\motyr\source\repos\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.AssemblyReference.cache
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.SuggestedBindingRedirects.cache
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\MainWindow.g.cs
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\App.g.cs
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox_MarkupCompile.cache
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox_MarkupCompile.lref
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\MainWindow.baml
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.g.resources
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.cache
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.CoreCompileInputs.cache
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+F:\Учеба\Преподаватели\МДК.01.01 Разработка программных модулей\Прочее\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
